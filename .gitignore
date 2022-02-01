@@ -12,9 +12,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
-*.properties
-application.yml
-!*-test.properties
+application-local.yml
 
 ### IntelliJ IDEA ###
 .idea
@@ -48,3 +46,4 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+
